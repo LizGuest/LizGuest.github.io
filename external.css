@@ -21,8 +21,8 @@ html, body {
 }
 
 p {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 150px;
+    margin-right: 150px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
@@ -41,13 +41,13 @@ p {
 #binoculars{
     float:left;
     width:100px;
-    margin-left:1px;
+    margin-left:150px;
     margin-right:1px;
 }
 
 
 #tulips{
-    float: center;
+    float:none;
     width: 800px;
     margin-left:150px;
     margin-right: 150px;
