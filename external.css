@@ -34,23 +34,18 @@ p {
 #kayak{
     float:right;
     width: 100px;
-    margin-left:1px;
-    margin-right:150px;
 }
 
 #binoculars{
     float:left;
     width:100px;
-    margin-left:150px;
-    margin-right:1px;
+    
 }
 
 
 #tulips{
-    float:none;
-    width: 800px;
-    margin-left:150px;
-    margin-right: 150px;
+ width: 800px;
+    
 
 }
 
