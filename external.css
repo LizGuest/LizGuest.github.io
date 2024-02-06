@@ -1,0 +1,66 @@
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.homejavascript {
+    background-color: rgb(233, 226, 217);
+}
+
+
+#banner {width: 100%;
+
+
+}
+
+#tablediv { margin-left: 150px;
+           
+
+}
+
+p {
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+#backgroundpic {
+    background-image:url("myBackground.png");
+    ba
+
+}
+
+#kayak{
+    float:right;
+    width: 100px;
+    margin-left:1px;
+    margin-right:1px;
+}
+
+#binoculars{
+    float:left;
+    width:100px;
+    margin-left:1px;
+    margin-right:1px;
+}
+
+
+
+#tulips{
+    float: center;
+    width: 500px;
+    margin-left:150px;
+    margin-right: 150px;
+}
+
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    margin-left:100px;
+    margin-right:150px;
+
+
+}
+
