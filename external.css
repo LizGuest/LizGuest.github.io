@@ -10,7 +10,7 @@ html, body {
 }
 
 
-#banner {width: 800;
+#banner {width: 100%;
 
 
 }
@@ -62,3 +62,7 @@ h1{
 
 }
 
+.container{
+    width:800px;
+    margin:0 auto;
+}
